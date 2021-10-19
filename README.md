@@ -2,5 +2,5 @@
 # to install pakages
 npm install 
 
-#run server
+# run server
 npm run dev
